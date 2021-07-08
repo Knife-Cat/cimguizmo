@@ -1,7 +1,7 @@
 #ifndef CIMGUIZMO_INCLUDED
 #define CIMGUIZMO_INCLUDED
 
-#include "cimgui.h"
+#include "../cimgui/cimgui.h"
 
 #ifdef CIMGUI_DEFINE_ENUMS_AND_STRUCTS
 #include "imgui_structs.h"
