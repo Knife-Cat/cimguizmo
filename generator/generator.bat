@@ -16,6 +16,4 @@ set PATH=%PATH%;C:\anima;C:\mingws\i686-7.2.0-release-posix-dwarf-rt_v5-rev1\min
 :: arg[2] "" or "comments"
 luajit ./generator.lua g++ ""
 
-::leave console open
-cmd /k
-
+exit 0
