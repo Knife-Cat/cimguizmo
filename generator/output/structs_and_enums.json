@@ -194,10 +194,10 @@
   },
   "enumtypes": [],
   "locations": {
-    "COLOR": "ImGuizmo:269",
-    "MODE": "ImGuizmo:209",
-    "OPERATION": "ImGuizmo:180",
-    "Style": "ImGuizmo:289"
+    "COLOR": "ImGuizmo:270",
+    "MODE": "ImGuizmo:210",
+    "OPERATION": "ImGuizmo:181",
+    "Style": "ImGuizmo:290"
   },
   "nonPOD": {
     "Style": true

@@ -19,6 +19,10 @@ CIMGUI_API void ImGuizmo_SetImGuiContext(ImGuiContext* ctx)
 {
     return ImGuizmo::SetImGuiContext(ctx);
 }
+CIMGUI_API void ImGuizmo_SetImGuiAssert(ImAssertFunc ctx)
+{
+    return ImGuizmo::SetImGuiAssert(ctx);
+}
 CIMGUI_API bool ImGuizmo_IsOver_Nil()
 {
     return ImGuizmo::IsOver();
